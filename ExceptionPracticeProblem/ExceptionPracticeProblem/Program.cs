@@ -5,7 +5,9 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            ArithmeticExceptionDemo.arithmeticException();
+            //ArithmeticExceptionDemo.arithmeticException();
+
+            IndexOutOfRangeExceptionDemo.indexOutOfRangeExceptionMethod();
         }
     }
 }
